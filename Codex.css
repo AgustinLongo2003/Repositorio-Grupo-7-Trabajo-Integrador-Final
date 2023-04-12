@@ -333,8 +333,15 @@ footer .container{
         font-size: 5em;
     }
 
-    #final button{
-        font-size: 2em;
+    #final a{
+        display: block;
+        font-family:'Quicksand', sans-serif;
+        width: 400px;
+        font-weight: 900;
+        border-radius: 10px;
+        padding: 15px 30px;
+        background-color: rgb(43, 205, 226);
+        color: black;
     }
 
     footer .container{
